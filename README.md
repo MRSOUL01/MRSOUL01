@@ -52,7 +52,7 @@ I am a student at **Jain University, Bangalore**, bridging business concepts and
 </p>
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MRSOUL01&theme=tokyo-night&hide_border=true" width="97%" alt="Activity Graph" />
+  <img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=MRSOUL01&theme=dark&stats=true" width="97%" alt="3D Contribution Graph" />
 </p>
 
 ---
