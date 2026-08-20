@@ -43,17 +43,23 @@ I am a student at **Jain University, Bangalore**, bridging business concepts and
 ### 📊 GitHub Metrics & Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="Ummer's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Ummer's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MRSOUL01&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="Ummer's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRSOUL01&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Ummer's Top Languages" />
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=MRSOUL01&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" width="97%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MRSOUL01&theme=tokyo-night&hide_border=true" width="97%" alt="Activity Graph" />
 </p>
+
+---
+
+### 🚀 Featured Project
+
+- 🏨 **[Hotel-management](https://github.com/MRSOUL01/Hotel-management)** — A hotel management system built to apply database design and structured queries in a real-world scenario.
 
 ---
 
@@ -69,5 +75,5 @@ I am a student at **Jain University, Bangalore**, bridging business concepts and
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=MRSOUL01&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile Views" />
 </p>
