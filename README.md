@@ -48,10 +48,6 @@ I am a student at **Jain University, Bangalore**, bridging business concepts and
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=MRSOUL01&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
-</p>
-
-<p align="left">
   <img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=MRSOUL01&theme=dark&stats=true" width="97%" alt="3D Contribution Graph" />
 </p>
 
