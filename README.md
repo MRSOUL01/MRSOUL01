@@ -69,7 +69,7 @@ I am a student at **Jain University, Bangalore**, bridging business concepts and
 
 ---
 
-### 📫 Connect with me
+### 📫 Connect with me through
 
 <p align="left">
   <a href="https://linkedin.com/in/ummer-ahmed-shaik" target="_blank">
