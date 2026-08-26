@@ -11,8 +11,11 @@ I am a student at **Jain University, Bangalore**, bridging business concepts and
 ---
 
 ### 🎓 Education & Background
-- 🏫 **School & University:** Gulf Indian School Fahaheel-Kuwait, Jain University, Bangalore (BCA in Cloud Computing)
-- 💼 **Background:** Commerce Informatics
+- 🏫 **School:**Gulf Indian School Fahaheel-Kuwait
+- 🏫 **University:** Jain University, Bangalore (BCA in Cloud Technology & Information Technology+)
+- 💼 **Background:** Commerce-Informatics Pratices
+- 🖥️ **Programming Language:** Python, SQL
+- 📖 **Learning Language:** C
 - 🎯 **Career Interests:** Cloud Solutions, Tech Leadership, Software Development
 
 ---
