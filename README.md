@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi there, I'm Ummer Ahmed Shaik 👋</h1>
 
 <p align="center">
@@ -69,6 +70,7 @@ I am a student at **Jain University, Bangalore**, bridging business concepts and
 ### 🚀 Featured Project
 
 - 🏨 **[Hotel-management](https://github.com/MRSOUL01/Hotel-management)** — A hotel management system built to apply database design and structured queries in a real-world scenario.
+- There are other projects which, I did for fun. I will continue to do for contribution for sake
 
 ---
 
