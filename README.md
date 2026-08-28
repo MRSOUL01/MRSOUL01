@@ -49,7 +49,8 @@ I am a student at **Jain University, Bangalore**, bridging business concepts and
 </p>
 
 - **GUI Development:** Tkinter & Messagebox (building interactive desktop applications)
-- **Logic Foundations:** Currently learning the `random` module and foundational C programming
+- **Python-Logic Foundations:** Currently learning the `random` module
+- **In C progarmming:** foundational C programming
 - **Database Management:** Relational database design and structured queries using MySQL
 
 ---
@@ -75,6 +76,7 @@ I am a student at **Jain University, Bangalore**, bridging business concepts and
 ---
 
 ### 📫 Connect with me through
+ You can contact in your free desire.
 
 <p align="left">
   <a href="https://linkedin.com/in/ummer-ahmed-shaik" target="_blank">
