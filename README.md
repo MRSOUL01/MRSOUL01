@@ -7,6 +7,7 @@
 </p>
 
 I am a student at **Jain University, Bangalore**, bridging business concepts and technology — specializing in cloud computing foundations, Python development, and database management.
+This is my website-  https://mrsoul01.github.io/
 
 ---
 
