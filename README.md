@@ -24,6 +24,7 @@ I am a student at **Jain University, Bangalore**, bridging business concepts and
 
 ---
 
+
 ### 🛠️ Tech Stack & Skills
 
 <p align="left">
